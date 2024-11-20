@@ -39,10 +39,7 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 ## PROGRAM:
-```
-Name:  GIFTSON RAJARATHINAM N           
-Register Number:  212222233002
-```
+
 ```
 #include <stdio.h>
 #include <stdlib.h>
